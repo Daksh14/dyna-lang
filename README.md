@@ -109,8 +109,8 @@ enum Option {
 let value = Option::Some(10);
 
 match value {
-    Option::Some(num) => println!("Value is: {}", num),
-    Option::None => println!("No value"),
+    Option::Some(num) => println("Value"),
+    Option::None => println("No value"),
 }
 ```
 
