@@ -1,4 +1,4 @@
----
+
 
 **Dyna Language Documentation**
 
@@ -11,7 +11,6 @@
 6. [Type System and Type Checking](#type-system-and-type-checking)
 7. [Examples](#examples)
 
----
 
 ### 1. Overview <a name="overview"></a>
 Dyna is a language inspired by Rust, focusing on immutability, strict typing, and pattern matching. This documentation outlines the syntax, core concepts, and usage patterns of Dyna, guiding developers through its functionality.
