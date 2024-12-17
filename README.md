@@ -1,4 +1,11 @@
 
+# Run
+Install rust https://www.rust-lang.org/tools/install
+then clone this repository
+then run
+```
+cargo r
+```
 
 **Dyna Language Documentation**
 
